@@ -1,0 +1,6 @@
+image: google/dart
+tasks:
+  - init: pub get
+vscode:
+  extensions:
+    - Dart-Code.dart-code@3.6.0:OIKJQXmfWHoIMVCiWrcLsQ==
