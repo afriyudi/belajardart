@@ -5,7 +5,7 @@ homepage: https://github.com/DanTup/gitpod-dart
 author: Danny Tuppeny <danny@tuppeny.com>
 
 environment:
-  sdk: ^3.5.0-202.0.dev
+  sdk: ^3.4.3-202.0.dev
 
 dev_dependencies:
   lints: ^4.0.0
